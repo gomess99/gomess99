@@ -1,18 +1,18 @@
 <h3>Hello! I'm Gabriel Gomes</h3>
 
-<h4>🐘🎮👾🤖🦏🧛🏻‍♂️🐍👨🏻‍💻</h4>
+<h4>☕🐘🎮👾🤖🦏🧛🏻‍♂️🐍👨🏻‍💻</h4>
 
 <h4>One piece of me kk</h4> 
 
 - 🔭 I’m currently working with Office Assistant
-- 🌱 I’m currently learning HTML5 | CSS3 | Python | JavaScript | PHP
+- 🌱 I’m currently learning HTML5 | CSS3 | Python | JavaScript |  PHP | Java
 - 👯 I’m looking to collaborate on Websites, Webdesing
 - 🤔 I’m looking for help with ALL (tips, experiences...)
 - 💬 Ask me about ALL (technology, programming...)
 - 📫 How to reach me: LinkedIn, Instagram, Twitter
 - 😄 Pronouns: He/Him
 
-<h4>👨🏻‍💻🐍🧛🏻‍♂️🦏🤖👾🎮🐘</h4>
+<h4>👨🏻‍💻🐍🧛🏻‍♂️🦏🤖👾🎮🐘☕</h4>
 
 <div>
   <a href="https://github.com/gomess99/github-readme-stats">
